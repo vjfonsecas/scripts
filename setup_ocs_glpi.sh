@@ -1,5 +1,11 @@
 #!/bin/bash
-
+#
+#
+# Script de instalação do Ocs e Glpi no Rocky Linux
+# Instalação baseada no rocky Linux 9.6
+# Instala e ativa tambem ssh caso não tenha
+#
+#
 # Verificar se é root
 if [ "$EUID" -ne 0 ]; then
     echo "⚠️ Execute o script como root!"
