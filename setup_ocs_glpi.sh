@@ -2,7 +2,7 @@
 #
 #
 # Script de instalação do Ocs e Glpi no Rocky Linux
-# Instalação baseada no rocky Linux 9.6
+# Instalação baseada no Rocky Linux 9.6
 # Instala e ativa tambem ssh caso não tenha
 #
 #
